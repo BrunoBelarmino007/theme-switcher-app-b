@@ -113,17 +113,8 @@ Este projeto consolidou conhecimentos fundamentais em:
 - Event-driven programming
 - Transições e animações CSS
 
-## 🏆 Certificação
-
-Este projeto faz parte do portfólio desenvolvido durante o curso de **CRIE UM SITE SIMPLES USANDO HTML, CSS e JAVASCRIPT** da **Fundação Bradesco**, demonstrando competências em:
-
-- Desenvolvimento Front-end
-- Lógica de Programação
-- Design de Interface
-- Resolução de Problemas
-
 ---
 
-**Desenvolvido com 💚 durante o curso da Fundação Bradesco**
+No princípio, era o Verbo, e o Verbo estava com Deus, e o Verbo era Deus. Ele estava no princípio com Deus. Todas as coisas foram feitas por ele, e sem ele nada do que foi feito se fez. Nele, estava a vida e a vida era a luz dos homens; e a luz resplandece nas trevas, e as trevas não a compreenderam.
 
-*Projeto educacional - 2025*
+João 1:1-5
