@@ -1,0 +1,13 @@
+.tema-claro {
+  --bg: var(--verde);
+  --fontColor: var(--preto);
+  --btnBg: var(--preto);
+  --btnFontColor: var(--branco);
+}
+
+.tema-escuro {
+  --bg: var(--preto);
+  --fontColor: var(--verde);
+  --btnBg: var(--branco);
+  --btnFontColor: var(--preto);
+}

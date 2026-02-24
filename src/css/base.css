@@ -43,38 +43,3 @@ li {
 .list {
   list-style: square;
 }
-
-.tema-claro {
-  --bg: var(--verde);
-  --fontColor: var(--preto);
-  --btnBg: var(--preto);
-  --btnFontColor: var(--branco);
-}
-
-.tema-escuro {
-  --bg: var(--preto);
-  --fontColor: var(--verde);
-  --btnBg: var(--branco);
-  --btnFontColor: var(--preto);
-}
-
-
-.btn {
-  position: absolute;
-  top: 20px;
-  right: 20px;
-  height: 60px;
-  width: 80px;
-  border-radius: 25px;
-  border: 2px solid var(--fontColor);
-  color: var(--btnFontColor);
-  background-color: var(--btnBg);
-  cursor: pointer;
-  font-weight: bold;
-  transition: all 0.3s ease;
-}
-
-.btn:hover {
-  opacity: 0.8;
-  transform: scale(1.05);
-}
